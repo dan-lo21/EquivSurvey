@@ -1,0 +1,12 @@
+Package: EquivSurvey
+Title: Test equivalence between overlapping and non-overlapping survey samples
+Version: 0.0.0.9000
+Authors@R: 
+    person("Daniel", "Lopez", , "dlopez31@jh.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0003-3865-0693"))
+Description: This package test the equivalence between two overlapping and non-overlapping survey samples. 
+License: use_gpl3_license()
+Imports: survey
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
